@@ -1,0 +1,2 @@
+Which of those two files will be the easiest for you to turn into a python script.. 
+it must be what the files can do but be completely in one single long python script 
