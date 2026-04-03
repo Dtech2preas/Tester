@@ -1,2 +1,11 @@
-Which of those two files will be the easiest for you to turn into a python script.. 
-it must be what the files can do but be completely in one single long python script 
+I'll be hosting this on a telegram bot hosting platform.. structure is already correct n the bot works 
+
+just want you to suggest anything improvements and new features we can add 
+
+
+n also to give it a dtech vibe 
+n call it the DTECH DOWNLOADER 
+
+n also make it requires that a person first joints this channels first 
+n also add my telegram users name so users can contact me for any issues they face 
+
